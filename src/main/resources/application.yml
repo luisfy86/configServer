@@ -6,3 +6,4 @@ spring:
    server:
     git:
      uri: file:/home/luis/workspace/configServer
+     search-paths: src/main/resources/
